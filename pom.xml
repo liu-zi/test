@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper</artifactId>
-            <version>5.0.0</version>
+            <version>5.3.1</version>
         </dependency>
         <!-- 阿里巴巴的fastjson json和java 快速转换工具包-->
         <dependency>
